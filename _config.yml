@@ -2,6 +2,7 @@ name: harvs
 favicon: null
 layout_spectrum: 0.6001097210682929
 typography_spectrum: 0.01135086896829307
+title: Harvs
 cta:
   domain: null
   bucket: null
