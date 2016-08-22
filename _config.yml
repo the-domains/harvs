@@ -19,6 +19,9 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Johnny Harvey
+  email: johnnyharvey@gmail.com
 name: harvs
 cta:
   domain: null
