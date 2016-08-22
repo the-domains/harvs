@@ -4,8 +4,15 @@
         <description><![CDATA[Johnny]]></description>
         <link>https://thegrid.ai/harvs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 10:36:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2016 10:37:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/harvs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home - Scalable and Modular Architecture for CSS]]></title>
+            <description><![CDATA[<article><h1>Home - Scalable and Modular Architecture for CSS</h1><p>SMACSS (pronounced "smacks") is more style guide than rigid framework. There is no library within here for you to download or install. SMACSS is a way to examine your design process and as a way to fit those rigid frameworks into a flexible thought process.</p><img src="https://smacss.com/img/book-covers.png"></article>]]></description>
+            <link>https://smacss.com/</link>
+            <guid isPermaLink="false">0dcbd297-d917-499c-b52a-906358efe238</guid>
+            <pubDate>Mon, 22 Aug 2016 10:37:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Importance of !important: Forcing Immutability in CSS - CSS Wizardry - CSS, OOCSS, front-end architecture, performance and more, by Harry Roberts]]></title>
             <description><![CDATA[<article><h1>The Importance of !important: Forcing Immutability in CSS - CSS Wizardry - CSS, OOCSS, front-end architecture, performance and more, by Harry Roberts</h1><p>Articles on CSS, OOCSS, front-end architecture, scalability and performance.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/db8974cd3d82d0d1e7103b0d7a3c3ecd/croprotate.png?cropheight=180&cropwidth=538&degrees=0&input=http%3A%2F%2Fcsswizardry.com%2Fimg%2Fcontent%2Flogo-css-guidelines.png&x=1&y=0"></article>]]></description>
