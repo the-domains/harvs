@@ -4,11 +4,18 @@
         <description><![CDATA[Johnny]]></description>
         <link>https://thegrid.ai/harvs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 10:37:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2016 10:54:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/harvs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[How Will Web Components Change CSS Architecture?]]></title>
+            <description><![CDATA[<article><h1>How Will Web Components Change CSS Architecture?</h1><p>With the slow rise of Web Components-the breakdown of interfaces into self-contained chunks of HTML, JavaScript, and CSS-will we see an evolution (or revolution) in how we manage the way we write, build, and bundle the CSS for our web sites? Currently there are two main approaches to writing CSS: component-based and utility-based.</p><img src="https://snk.ms/logo.gif"></article>]]></description>
+            <link>https://snook.ca/archives/html_and_css/will-web-components-change-css</link>
+            <guid isPermaLink="false">9ed0cf98-c723-4f35-bdac-fde8fc7aaeb1</guid>
+            <pubDate>Mon, 22 Aug 2016 10:53:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Home - Scalable and Modular Architecture for CSS]]></title>
-            <description><![CDATA[<article><h1>Home - Scalable and Modular Architecture for CSS</h1><p>SMACSS (pronounced "smacks") is more style guide than rigid framework. There is no library within here for you to download or install. SMACSS is a way to examine your design process and as a way to fit those rigid frameworks into a flexible thought process.</p><img src="https://smacss.com/img/book-covers.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Home - Scalable and Modular Architecture for CSS</h1><p>SMACSS (pronounced "smacks") is more style guide than rigid framework. There is no library within here for you to download or install. SMACSS is a way to examine your design process and as a way to fit those rigid frameworks into a flexible thought process.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b9163c6feb35360bd6f43885456a5d34/noop.png?input=https%3A%2F%2Fsmacss.com%2Fimg%2Fbook-covers.png"></article>]]></description>
             <link>https://smacss.com/</link>
             <guid isPermaLink="false">0dcbd297-d917-499c-b52a-906358efe238</guid>
             <pubDate>Mon, 22 Aug 2016 10:37:40 GMT</pubDate>
